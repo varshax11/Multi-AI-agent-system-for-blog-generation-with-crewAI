@@ -1,4 +1,4 @@
-### Multi AI Agent System for Blog Generation with CrewAI
+# Multi AI Agent System for Blog Generation with CrewAI
 
 A powerful automated blog content generation system built with CrewAI and Cohere LLM. This project orchestrates multiple AI agents to plan, write, and edit high-quality blog content on any topic.
 
